@@ -1,4 +1,4 @@
-<h2>关于宝塔Linux面板V6.0存在xss漏洞的说明</h2>
+关于宝塔Linux面板V6.0存在xss漏洞的说明
 Pagoda Linux panel V6.0 has XSS instructions
 
 近日我司（海南神州希望网络有限公司 - http://www.chinahope.net）在日常工作
