@@ -1,1 +1,29 @@
-123
+<h2>关于宝塔Linux面板V6.0存在xss漏洞的说明</h2>
+Pagoda Linux panel V6.0 has XSS instructions
+
+近日我司（海南神州希望网络有限公司 - http://www.chinahope.net）在日常工作
+	Recently, our company (ChinaHope - http://www.chinahope.net) found a cross-site 
+
+中，发现宝塔Linux面板系列产品的最新版本（宝塔Linux面板6.0）存在一处跨站脚本攻
+scripting(Xss) vulnerability in the latest version of the Pagoda Linux panel series
+
+击漏洞（xss），已经提交相关漏洞审核单位（Common Vulnerabilities & Exposures）进行
+(Pagoda Linux Panel 6.0).has been submitted to Common Vulnerabilities & Exposures for 
+
+审核并通过(CVE-2018-18825)。漏洞详情等相关材料现因安全风险问题暂不公布。如有相
+review and approval (CVE-2018-18825). Related materials such as vulnerability details
+
+关单位需要相关材料请来函说明情况，我司将与宝塔团队沟通在漏洞修复并获得宝塔团队
+write to us to explain the situation. Our company will communicate with the Pagoda team to
+
+授权后发送相关文档。给您带来的不便请您谅解。
+are not yet released due to security risks. If relevant units need relevant materials, please
+
+understand that the inconvenience caused to you.
+
+
+
+
+海南神州希望网络有限公司(ChinaHope)
+http://www.chinahope.net
+E-Mail : wangpeiren@chinahope.net
